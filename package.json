@@ -1,0 +1,14 @@
+{
+  "name": "falso-lemma",
+  "version": "1.0.0",
+  "description": "Il gioco del dizionario da fare in gruppo, ognuno dal proprio telefono.",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
